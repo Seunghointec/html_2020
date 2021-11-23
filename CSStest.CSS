@@ -1,0 +1,110 @@
+* {
+	background-color:light
+  }
+
+body{
+	position:absolute;
+	left:200px;
+}
+h1 {
+	font: 3em ariel;
+	color: blue;
+	font-size:60px;
+	}
+h2 {
+	color: lightskyblue;
+	font-size: 30px;
+}	
+blockquote {
+	font-size: 18px;
+}
+p{
+
+	color:#7B5804;	
+}
+h4 {
+	font: 24px ariel;
+	border: solid red;
+	margin: 3px;
+	padding: 10px;
+	
+}
+a:link {
+	color: green; 
+	background-color: transparent; 
+	text-decoration: none;
+	font-size: large;
+}
+img {
+	position:absolute;
+	width:100px;
+	height:200px;
+	top: 0;
+	left: 800px;
+}
+a:visited {
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+  
+  a:hover {
+	color: blueviolet;
+	background-color: transparent;
+	text-decoration: underline;
+  }
+  
+  a:active {
+	color: forestgreen;
+	background-color: transparent;
+	text-decoration: underline;
+  }
+
+  table, th, td {
+	position: relative;
+	border:1px solid black;
+	text-align: center;
+	border-collapse: separate;
+	overflow: hidden;
+    width: 100%;
+    white-space: nowrap;
+  }
+ th { 
+	width: 70%;
+	height:110%;
+	font-size:22px;
+	padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+ }
+ td{
+	font-size: 20px;
+	
+ }
+ tr:nth-child(even) {
+	background-color: white;
+  }
+  span{
+  color:blue;font-weight:bold"
+  }
+
+ol{
+	  font-size: 20px;
+}
+ul{
+	font-size: 20px;
+}
+aside {
+	position: fixed;
+	float: left;
+	width: 10%;
+	height: 100%; /* only for demonstration, should be removed */
+	background: #ccc;
+	padding: 20px;
+	left: 0px;
+	top: 0px;
+}
+
+ 
