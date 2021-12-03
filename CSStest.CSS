@@ -1,6 +1,27 @@
-* {
-	background-color:light
-  }
+/*
+Layout CSS -Table of Content
+
+====================================================================
+Table of Content
+
+1. Backgrouynd colour
+2. Header Styles
+3. About Section
+4. Resume Section
+5. Portfolio Section
+6. Call To Action Section
+7. Testimonials Section
+8. Contact Section
+9. Footer
+====================================================================
+*/
+
+/* ------------------------------------------------------------------ */
+/* a. General Styles
+/* ------------------------------------------------------------------ */
+body {
+	background-color:white;
+}
 
 body{
 	position:absolute;
